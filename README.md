@@ -1,6 +1,6 @@
 
                                 #Tema 0 - GwentStone Lite
-                            ###Postelnicu Cristina-Marina 323CA###
+                            ###Postelnicu Cristina-Marina 323CA
 
 ## Description
 - This project is a simplified version of the popular card games Gwent and
