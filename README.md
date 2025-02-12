@@ -1,5 +1,5 @@
 
-                                ##Tema 0 - GwentStone Lite##
+                                #Tema 0 - GwentStone Lite
                             ###Postelnicu Cristina-Marina 323CA###
 
 ## Description
