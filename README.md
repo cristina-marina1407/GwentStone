@@ -1,5 +1,5 @@
 
-#Tema 0 - GwentStone Lite
+# Tema 0 - GwentStone Lite
 
 ## Description
 - This project is a simplified version of the popular card games Gwent and
